@@ -1,0 +1,20 @@
+msgid "Test item #1"
+msgstr "Correctly translated test item #1"
+
+msgid "Test item #2"
+msgstr "Correctly translated test item #2"
+
+msgid "Test item #3"
+msgstr "Correctly translated test item #3"
+
+msgid "Test item #4"
+msgstr "Wrongly translated test item #4"
+
+msgid ""
+msgstr "Translation of empty id #1"
+
+msgid ""
+msgstr "Translation of empty id #2"
+
+msgid "Item with void translation"
+msgstr ""
