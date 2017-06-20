@@ -1,0 +1,2 @@
+Script for concurrently comparing pairs of text files structured as filemock1.
+It also has a function to create tests for grails.
